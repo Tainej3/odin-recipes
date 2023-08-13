@@ -13,6 +13,9 @@ p {
     color: aliceblue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    margin: auto auto;
+    line-height: 1.6;
 }
 
 #body_2 {
@@ -26,5 +29,5 @@ img {
     align-items: center;
     margin: auto auto;
     display: block;
-    border: solid 5px aliceblue;
+    border: solid 3px aliceblue;
 }
