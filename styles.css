@@ -3,9 +3,22 @@
     margin: 0 50px;
 }
 
-h1 {
+h1, h2 {
     color: aliceblue;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#body_2 {
+    align-items: center;
+    margin: auto auto;
+    display: block;
 }
 
 img {
