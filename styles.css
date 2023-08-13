@@ -1,0 +1,17 @@
+#body_1, #body_2 {
+    background-color: rgb(26, 26, 26);
+    margin: 0 50px;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    align-items: center;
+    margin: auto auto;
+    display: block;
+    border: solid 5px aliceblue;
+}
